@@ -9,6 +9,9 @@ namespace HomeWork__Social_Network_
 {
     internal class Program
     {
+        /* 
+         * Наверное не использовал ниоджного паттерна, зато антипаттерны.....
+         */
         static void Main(string[] args)
         {
             Start.Enter();
